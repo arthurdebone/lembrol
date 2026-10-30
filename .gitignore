@@ -46,3 +46,6 @@ app.*.map.json
 
 # VS Code (settings com caminhos absolutos da maquina)
 .vscode/
+
+# Artefatos de distribuicao (APK, instalador)
+/dist/
